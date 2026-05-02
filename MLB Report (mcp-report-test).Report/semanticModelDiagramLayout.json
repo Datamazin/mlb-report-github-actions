@@ -1,0 +1,139 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "dim_player",
+          "nodeLineageTag": "e38359c5-ec70-4ff9-b89e-d868609ebbc3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 263,
+            "y": 0
+          },
+          "nodeIndex": "dim_team",
+          "nodeLineageTag": "102514e5-d60e-413d-9e59-5e062e04a2c0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 517,
+            "y": 0
+          },
+          "nodeIndex": "dim_venue",
+          "nodeLineageTag": "28efec51-85ae-4cc0-941c-87c5a6ed07da",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 317
+          },
+          "nodeIndex": "fact_game",
+          "nodeLineageTag": "5bc35c90-d29b-4e0c-bf1f-8e19d932efcb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 514,
+            "y": 326
+          },
+          "nodeIndex": "leaderboards",
+          "nodeLineageTag": "0e0522b9-f0df-433a-8c4c-fd1b366d94e7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1149,
+            "y": 490
+          },
+          "nodeIndex": "league_averages",
+          "nodeLineageTag": "a128a94b-5f5e-4528-9673-e02783beccd5",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 250,
+            "y": 319
+          },
+          "nodeIndex": "player_season_summary",
+          "nodeLineageTag": "673d1fe7-3567-46c0-9fcd-fbcb00e83c54",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1988,
+            "y": 0
+          },
+          "nodeIndex": "standings_snap",
+          "nodeLineageTag": "6a652665-c461-4fe7-a4f4-5d0c54296c4f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 820.3636474609375,
+            "y": 170.5
+          },
+          "nodeIndex": "dim_date",
+          "nodeLineageTag": "e9849f8e-c7a7-4e95-8691-d77b295c84d2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
